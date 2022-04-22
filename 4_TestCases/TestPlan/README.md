@@ -11,5 +11,5 @@
 | ID        |  Description                                       | Test cases                 |  
 | :-------- | :--------------------------------                  | :------------------------- | 
 | `1`       | `Dc motor`                                         | `Passed`                   |  
-|  `2`      | `Switch`                                           |   `Passed`                 |   
+|  `2`      | `Potentiometer`                                    |   `Passed`                 |   
 |`3`        | `Oscope`                                           |	`Passed`	                |
