@@ -19,4 +19,4 @@
 ![state](https://user-images.githubusercontent.com/101784923/164802323-f4fffd09-2de0-4f73-b291-b8da64f373f6.png)
 
 ## Schematic Diagram:
-![schematic ](https://user-images.githubusercontent.com/101784923/164802582-2d1b6ffe-a8f9-414a-b2d4-ccb1034bf02b.png)
+![schematic ](https://user-images.githubusercontent.com/101784923/164802954-85bba1cd-d82a-48ae-b959-5c0df3fa8fd8.png)
