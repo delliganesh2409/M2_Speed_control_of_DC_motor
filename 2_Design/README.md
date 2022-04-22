@@ -1,13 +1,14 @@
 # Design
 
 ## Block diagram:
-![m2_block](https://user-images.githubusercontent.com/101784923/164774828-996dd76c-6ac0-4a20-b202-81efa7456d6c.png)
+
+![block diagram](https://user-images.githubusercontent.com/101784923/164800354-aedfa27f-fb25-4f37-9820-a3f7c393b9a5.png)
 
 
 ## Data Flow Transition:
-![m2_flow line](https://user-images.githubusercontent.com/101784923/164777758-2849ca16-b750-448e-ad8e-b3a73dfa886e.png)
 
-## Flowchart:
+![data](https://user-images.githubusercontent.com/101784923/164800767-27d179dd-3eaa-4365-a598-435c8e70d4ba.png)
+
 ![m2_flowchart](https://user-images.githubusercontent.com/101784923/164782486-c5a9a1d1-20f9-4a2d-a5be-8795da16679b.png)
 
 ## State Transistion Diagram:
