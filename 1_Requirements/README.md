@@ -6,7 +6,6 @@
 |  `HR02`   | `LM239 interfacing with Atmega328p`              | `IMPLEMENTED `  |   
 |`HR03`     | `DC motor interfacing with Atmega328p using LM329`|`IMPLEMENTED`    |
 |`HR04`	    |`Oscope interfacing with Atmega328p`             |`IMPLEMENTED`    |
-|`HR05`	    |`Potentiometer interfacing with Atmega328p`             |`IMPLEMENTED`    |
 
 
 ## low level Requriments  
