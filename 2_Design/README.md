@@ -15,8 +15,8 @@
 
 
 ## State Transistion Diagram:
+![state](https://user-images.githubusercontent.com/101784923/164814521-8fb5ae08-0ba6-46d8-b728-25b6245b80c6.png)
 
-![state](https://user-images.githubusercontent.com/101784923/164802323-f4fffd09-2de0-4f73-b291-b8da64f373f6.png)
 
 ## Schematic Diagram:
 ![schematic ](https://user-images.githubusercontent.com/101784923/164802954-85bba1cd-d82a-48ae-b959-5c0df3fa8fd8.png)
