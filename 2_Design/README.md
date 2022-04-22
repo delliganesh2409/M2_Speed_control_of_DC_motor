@@ -2,16 +2,16 @@
 
 ## Block diagram:
 
-![block diagram](https://user-images.githubusercontent.com/101784923/164800354-aedfa27f-fb25-4f37-9820-a3f7c393b9a5.png)
+![block diagram](https://user-images.githubusercontent.com/101784923/164815196-a8a88ab7-8906-451b-aeca-83d5e0716b10.png)
 
 
 ## Data Flow Transition:
+![data](https://user-images.githubusercontent.com/101784923/164815239-2b001c68-639d-48d2-b730-31b2756bc2bc.png)
 
-![data](https://user-images.githubusercontent.com/101784923/164801215-6817e764-9f57-44a0-93d3-109e9f1c015f.png)
 
 ## Flow chart
+![flowchar](https://user-images.githubusercontent.com/101784923/164815303-b5f0f435-8c88-42d5-b8d3-317812ec678a.png)
 
-![flowchar](https://user-images.githubusercontent.com/101784923/164801960-5676e711-bab0-4128-a71a-19e2a4bbc621.png)
 
 
 ## State Transistion Diagram:
