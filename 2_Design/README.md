@@ -7,12 +7,16 @@
 
 ## Data Flow Transition:
 
-![data](https://user-images.githubusercontent.com/101784923/164800767-27d179dd-3eaa-4365-a598-435c8e70d4ba.png)
+![data](https://user-images.githubusercontent.com/101784923/164801215-6817e764-9f57-44a0-93d3-109e9f1c015f.png)
 
-![m2_flowchart](https://user-images.githubusercontent.com/101784923/164782486-c5a9a1d1-20f9-4a2d-a5be-8795da16679b.png)
+## Flow chart
+
+![flowchar](https://user-images.githubusercontent.com/101784923/164801960-5676e711-bab0-4128-a71a-19e2a4bbc621.png)
+
 
 ## State Transistion Diagram:
-![m2_state dia](https://user-images.githubusercontent.com/101784923/164784657-a98e854f-489e-455f-9c42-62f6c8b78779.png)
+
+![state](https://user-images.githubusercontent.com/101784923/164802323-f4fffd09-2de0-4f73-b291-b8da64f373f6.png)
 
 ## Schematic Diagram:
-![simulide circuit](https://user-images.githubusercontent.com/101784923/164785536-00fb89ae-9ba7-4819-b463-3c1f3004a696.png)
+![schematic ](https://user-images.githubusercontent.com/101784923/164802582-2d1b6ffe-a8f9-414a-b2d4-ccb1034bf02b.png)
