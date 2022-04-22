@@ -10,3 +10,5 @@
 ## Flowchart:
 ![m2_flowchart](https://user-images.githubusercontent.com/101784923/164782486-c5a9a1d1-20f9-4a2d-a5be-8795da16679b.png)
 
+## State Transistion Diagram:
+![m2_state dia](https://user-images.githubusercontent.com/101784923/164784657-a98e854f-489e-455f-9c42-62f6c8b78779.png)
