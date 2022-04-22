@@ -12,3 +12,6 @@
 
 ## State Transistion Diagram:
 ![m2_state dia](https://user-images.githubusercontent.com/101784923/164784657-a98e854f-489e-455f-9c42-62f6c8b78779.png)
+
+## Schematic Diagram:
+![simulide circuit](https://user-images.githubusercontent.com/101784923/164785536-00fb89ae-9ba7-4819-b463-3c1f3004a696.png)
