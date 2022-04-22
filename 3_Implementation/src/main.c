@@ -1,10 +1,3 @@
-/*
- * main.c
- *
- * Created: 4/22/2022 6:33:46 PM
- *  Author: Vigneshwar
- */ 
-
 #define F_CPU 20000000L
 #include <xc.h>
 #include <util/delay.h>
