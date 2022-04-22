@@ -18,7 +18,7 @@
 
 # OUTPUT
 
-## THE CIRCUIT IN ON POSITION
+## THE CIRCUIT IN OFF POSITION
 
 ![off](https://user-images.githubusercontent.com/101784923/164803404-72fcd247-3523-4392-85c0-c512d08425a9.png)
 
