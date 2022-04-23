@@ -1,10 +1,10 @@
-#include "def.h"
+#include "inc.h"
 
-void motors_pin_configuration(void){
+void motors_pin_config(void){
 	motors_dir_ddr_reg |=((1<<motors_RF_pin)|(1<<motors_RB_pin)|(1<<motors_LB_pin)|(1<<motors_LF_pin));
 	motors_dir_port_reg &= ~((1<<motors_RF_pin)|(1<<motors_RB_pin)|(1<<motors_LB_pin)|(1<<motors_LF_pin));
 }
-void pwm_pin_configuration(void){
+void pwm_pin_config(void){
 	motors_pwm_ddr_reg |= ((1<<motors_pwm_R_pin)|(1<<motors_pwm_L_pin));
 	motors_pwm_port_reg |= ((1<<motors_pwm_R_pin)|(1<<motors_pwm_L_pin));
 }
@@ -21,7 +21,7 @@ void timer_pwm_init(void){
 	OCR0A_reg =0X00;
 	OCR0B_reg =0x00;
 }
-void set_speed_of_motor(unsigned char speed_of_motor1, unsigned char speed_of_motor2){
-	OCR0A_reg = speed_of_motor1;
-	OCR0B_reg = speed_of_motor2;
+void set_duty_cycle(unsigned char motor1_speed, unsigned char motor2_speed){
+	OCR0A_reg = motor1_speed;
+	OCR0B_reg = motor2_speed;
 }
