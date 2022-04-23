@@ -16,7 +16,7 @@ Codiga - Static Analysis
 
 [![Cppcheck Analysis](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml)
 
-
+[![Build CI - Windows](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/Build%20on%20windows.yml/badge.svg)](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/Build%20on%20windows.yml)
 
 ## Objective
 Speed control of Dc motor is a simple project based on Dc motor and atmega328p, by using potentiometer, we can vary the speed of dc motor.
