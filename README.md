@@ -9,7 +9,7 @@
 
 [![Cppcheck Analysis](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml)
 
-
+https://api.codiga.io/project/33104/status/svg
 
 
 
