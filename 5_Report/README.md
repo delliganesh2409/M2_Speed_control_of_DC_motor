@@ -118,7 +118,9 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
  
 ## * OPPORTUNITY
  * DC series motors are used where high starting torque is required and variation of speed is possible. Series motors are used in traction systems, cranes, air  compressors, vacuum compressors, sewing machines, etc.
- * Shunt motors are a special type of motor used where constant speed is required. These motors are used in blowers, weaving machines, spinning machines, lifts, etc.
+ * Speed Variation
+Speed variation is accomplished by changing either the armature voltage or field voltage, or a combination of both. For example, a motor with a base speed of 1750 RPM and armature voltage of 500 VDC will run at 875 RPM with a 50% reduction in armature voltage (to 250 VDC).
+
  
 ## * THREATS
  * Its drive produces more noise.
