@@ -26,7 +26,7 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
 7.Potentiometer
 
 
-## ADVANTAGES
+## Advantages
 1. Operates on DC power supply without a control.
 2. Inexpensive controls for speed regulation.
 3. Generally a low-cost motor option.
