@@ -5,13 +5,16 @@
 
 # M2_Speed_control_of_DC_motor
 
+## Badges
+Codiga - Grade
+![Quality](https://api.codiga.io/project/33104/status/svg)
+
+Codiga - Static Analysis
+![Quality](https://api.codiga.io/project/33104/score/svg)
+
 [![Build-Linux](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/build%20on%20linux.yml/badge.svg)](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/build%20on%20linux.yml)
 
 [![Cppcheck Analysis](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/delliganesh2409/M2_Speed_control_of_DC_motor/actions/workflows/c-cpp.yml)
-
-https://api.codiga.io/project/33104/status/svg
-
-
 
 
 
