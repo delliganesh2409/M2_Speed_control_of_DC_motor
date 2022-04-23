@@ -1,16 +1,16 @@
-## Report
+# Report
 
-# OBJECTIVE OF THIS PROJECT
+## Objective
 Speed control of Dc motor is a simple project based on Dc motor and atmega328p, by using potentiometer, we can vary the speed of dc motor.
 
-# INTRODUCTION
+## Introduction
 The speed control mechanism is applicable in many cases like controlling the movement of robotic vehicles, movement of motors in paper mills and the movement of motors in elevators where different types of DC motors are used. Speed control of DC motor is one of the most useful features of the motor.The DC motor is the motor which converts the direct current into the mechanical work. It works on the principle of Lorentz Law, which states that the current carrying conductor placed in a magnetic and electric field experience a force.
 
-# CATEGORY
+## Category
 Potentiometer is used to vary the speed of the Dc motor and oscope is used to shows the output voltage graph of dc motor.
 
 
-# COMPONENTS AND SUPPLIES:
+## Components and Supplies:
 1.atmega328p 
 
 2.Dc motor 
@@ -26,7 +26,7 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
 7.Potentiometer
 
 
-# ADVANTAGES
+## ADVANTAGES
 1. Operates on DC power supply without a control.
 2. Inexpensive controls for speed regulation.
 3. Generally a low-cost motor option.
