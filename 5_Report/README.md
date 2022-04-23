@@ -1,12 +1,12 @@
-# Report
+## Report
 
-## OBJECTIVE OF THIS PROJECT:
-Speed control of Dc motor is a simple project based on Dc motor and atmega328p, by using potentiometer and L293 we can vary the speed of dc motor.
+# OBJECTIVE OF THIS PROJECT
+Speed control of Dc motor is a simple project based on Dc motor and atmega328p, by using potentiometer, we can vary the speed of dc motor.
 
-# INTRODUCTION:
+# INTRODUCTION
 The speed control mechanism is applicable in many cases like controlling the movement of robotic vehicles, movement of motors in paper mills and the movement of motors in elevators where different types of DC motors are used. Speed control of DC motor is one of the most useful features of the motor.The DC motor is the motor which converts the direct current into the mechanical work. It works on the principle of Lorentz Law, which states that the current carrying conductor placed in a magnetic and electric field experience a force.
 
-# CATEGORY:
+# CATEGORY
 Potentiometer is used to vary the speed of the Dc motor and oscope is used to shows the output voltage graph of dc motor.
 
 
@@ -17,20 +17,22 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
 
 3.Connecting Wires
 
-4.L239
+4.L293 motor driver
 
-5.5V Rail
+5.5V voltage source
 
 6.Oscope
 
+7.Potentiometer
 
-# ADVANTAGES:
+
+# ADVANTAGES
 1. Operates on DC power supply without a control.
 2. Inexpensive controls for speed regulation.
 3. Generally a low-cost motor option.
 4. Easily pairs with gear reducers.
 
-## High Level Requirements:
+## High Level Requirements
 
 | ID        |  Description                                       |  Status         |
 | :-------- | :--------------------------------                  | :-------------- |
@@ -50,12 +52,12 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
 |`LR04`|	`view the output in oscope `	                                               |       `HR02`          |`IMPLEMENTED`              |
 
 
-## Block diagram:
+## Block diagram
 
 ![block diagram](https://user-images.githubusercontent.com/101784923/164815196-a8a88ab7-8906-451b-aeca-83d5e0716b10.png)
 
 
-## Data Flow Transition:
+## Data Flow Transition
 ![data](https://user-images.githubusercontent.com/101784923/164815239-2b001c68-639d-48d2-b730-31b2756bc2bc.png)
 
 
@@ -64,46 +66,89 @@ Potentiometer is used to vary the speed of the Dc motor and oscope is used to sh
 
 
 
-## State Transistion Diagram:
+## State Transistion Diagram
 ![state](https://user-images.githubusercontent.com/101784923/164814521-8fb5ae08-0ba6-46d8-b728-25b6245b80c6.png)
 
 
-## Schematic Diagram:
+## Schematic Diagram
 ![schematic ](https://user-images.githubusercontent.com/101784923/164802954-85bba1cd-d82a-48ae-b959-5c0df3fa8fd8.png)
 
 
 
-# 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
+## 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
 
-# * WHO:
- * A DOOR SENSOR IS THE APPLICATION USED TO DETECT THE PERSONS NEAR THE SENSOR.
-# * WHAT:
- * HIGH RELIABILITY.
-# * WHEN:
- * IT CAN BE USED ANY TIME MOSTLY.
-# * WHERE:
- * PRESENCE OF NEAR BY OBJECTS
-# * HOW:
- * EASY TO USE AND ADJUSTED IN A SHORT RANGE.
+## * WHO
+ * The speed control mechanism is applicable in many cases like controlling the movement of robotic vehicles, movement of motors in paper mills and the movement of motors in elevators where different types of DC motors are used.
+ 
+## * WHAT
+ * Speed control of Dc motor.
+ 
+## * WHEN
+ * It can be used for many applications like elevators, steel mills, rolling mills, locomotives, and excavators.
+ 
+## * WHERE
+ * Robots
+ * Cranes.
+ * Air compressor.
+ * Lifts(shopping mall etc).
+ * Elevators.
+ * Winching system.
+ * Electric traction.
+ 
+## * HOW
+ * By changing value of the potentiometer, we can easy to adjust the speed of the Dc motor.
 
-# * SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+## * SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
 
-# * STRENGTH:
- * IT IS LESS IN PRICE.
- * HELPS IN SECURITY SYSTEM.
- * TYPE OF ALERT WE GET ONCE THYE DOOR OPENS.
- * WE CAN CHOOSE ALARAM OR LED TO ACTIVATE.
-# * WEAKNESS:
- * LIMITED RANGE.
-# * OPPORTUNITY:
- * INTERNET OF THINGS(IOT).
- * DOOR SENSOR DEVICES MARKETT UPCOMING TRENDS.
-# * THREATS:
- * SENSOR DIS CONNECTION.
- * FAILURE OF THE COMPONENTS.
- * MORE POWER CONSUMPTION.
-# OUTPUTS:
-# * OFF CONDITION
-![OFF MODE](https://user-images.githubusercontent.com/101619680/164508488-3ddbe5f8-25fd-4cb8-9f19-af29bcad3520.png)
-# * ON CONDITION:
-![ON MODE](https://user-images.githubusercontent.com/101619680/164508574-bc06b492-6e78-4a3a-8c7f-2e2f57b109c1.png)
+## * STRENGTH
+ * They are suitable for low-speed torque
+ * They have adjustable speed
+ * They offer a wide range of speed control both below and above the rated speed
+ * They have a very high and strong starting torque
+ * They are used in appliances such as electric trains and cranes having overwhelming burdens in the beginning conditions
+ * They are more affordable
+ * Their maintenance is easy and takes little to no time
+ 
+## * WEAKNESS
+ * DC motors have a high initial cost.
+ * Maintenance cost is high and increased operation due to the presence of brushes and commutator.
+ * Due to sparking at brush DC motors cannot operate in explosive and hazardous conditions.
+ * As the speed increases, the shaft gets vibrated and the armature gets damaged.
+ * We need converters to supply power to the motor.
+ 
+## * OPPORTUNITY
+ * DC series motors are used where high starting torque is required and variation of speed is possible. Series motors are used in traction systems, cranes, air  compressors, vacuum compressors, sewing machines, etc.
+ * Shunt motors are a special type of motor used where constant speed is required. These motors are used in blowers, weaving machines, spinning machines, lifts, etc.
+ 
+## * THREATS
+ * Its drive produces more noise.
+ * The losses are higher because of lower efficiency.
+
+## The Test plan of this project is
+
+* To know the importnace of the project.
+* To know the work in specific conditions.
+* To know the Working Principle.
+* To verify the microcontroller chip.
+* To verify the devices are interfacing with microcontroller.
+
+## Test Cases
+
+| ID        |  Description                                       | Test cases                 |  
+| :-------- | :--------------------------------                  | :------------------------- | 
+| `1`       | `Dc motor`                                         | `Passed`                   |  
+|  `2`      | `potentiometer`                                    |   `Passed`                 |   
+|`3`        | `Oscope`                                           |	`Passed`	                |
+
+
+
+# OUTPUT
+
+## THE CIRCUIT IN OFF POSITION
+
+![off](https://user-images.githubusercontent.com/101784923/164803404-72fcd247-3523-4392-85c0-c512d08425a9.png)
+
+
+## THE CIRCUIT IN ON POSITION
+![on](https://user-images.githubusercontent.com/101784923/164803522-d13d9636-0c30-4fd2-b785-b5fd3d505e51.png)
+
