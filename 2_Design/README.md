@@ -14,7 +14,7 @@
 
 
 
-## State Transistion Diagram:
+## State Transition Diagram:
 ![state](https://user-images.githubusercontent.com/101784923/164814521-8fb5ae08-0ba6-46d8-b728-25b6245b80c6.png)
 
 
